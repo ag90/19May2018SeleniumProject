@@ -11,13 +11,13 @@ public class demo {
 	@Test
 	public void m()
 	{
-		assertEquals("Hello India Startup", "Hello India Startup");
+		assertEquals("Shri. Narendra Damodar Das Modi, "PM of India");
 	}
 	
 	@Test
 	public void m1()
 	{
-		System.out.println("WELCOME TO Startup Campus");
+		System.out.println("Primr Minister Office");
 	}
 
 }
